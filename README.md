@@ -1,16 +1,7 @@
-# flutterkatering
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. ![hasil dari penginstalan flutter dalam vs code](image.png)
+sebelum melakukan pengkodingan flutter kita di wajib kan untuk menginstall flutter terlebih dahulu, untuk menginstallnya kita bisa menggunakan visual studio code atau android studio. setelah itu kita juga wajib untuk menginstal ekstension flutter pada sofware coding yang kita gunakan supaya memudahkan penginstalan flutter.
+![hasil folder dari instal flutter](image-1.png)
+ini adalah hasil dari instalasi dari flutter yang sudah di instal pada visual studio code. yang berisi banyak folder dan file - file.
+2. selanjut nya membuat repository pada github ![membuat repository](image-2.png) pada foto tersebut kita dapat membuat repositori dengan memasukan nama repository yang kita inginkan. sesudah itu masuk ke repository nya dan salin link ![link](image-3.png) seperti contoh di samping sesuai link yang ada di repositori yang telah di buat.
+kemudian kita kembali lagi ke vscode untuk mengepush/upload file kita dengan cara buka terminal dahulu selanjut nya ketik git init, lalu paste yang link yang sudah kita kopy, lalu git add . ,lalu git branch -M main, lalu git commit -m "pwsan yang ingin di tulis", lalu git push -u origin main.
+jika sudah nantiakan seperti ini ![hasil upload](image-4.png).
