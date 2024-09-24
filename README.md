@@ -5,4 +5,4 @@ ini adalah hasil dari instalasi dari flutter yang sudah di instal pada visual st
 2. selanjut nya membuat repository pada github ![membuat repository](image-2.png) pada foto tersebut kita dapat membuat repositori dengan memasukan nama repository yang kita inginkan. sesudah itu masuk ke repository nya dan salin link ![link](image-3.png) seperti contoh di samping sesuai link yang ada di repositori yang telah di buat.
 kemudian kita kembali lagi ke vscode untuk mengepush/upload file kita dengan cara buka terminal dahulu selanjut nya ketik git init, lalu paste yang link yang sudah kita kopy, lalu git add . ,lalu git branch -M main, lalu git commit -m "pwsan yang ingin di tulis", lalu git push -u origin main.
 jika sudah nantiakan seperti ini ![hasil upload](image-4.png).
-3.  
+3. 
